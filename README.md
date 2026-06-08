@@ -1,6 +1,10 @@
 # Investigation-of-Robots-and-Algorithms-Working-In-Complex-Environment
 Creating new theories and methods and enriching existing knowledge related to algorithms for controlling robots for work in complex environments by conducting theoretical and experimental research.
 
+## Redundant Robot
+
+<img width="1149" height="1608" alt="Redundant robot" src="https://github.com/user-attachments/assets/2d6805dd-4d92-46e2-a8d1-d97552d22585" />
+
 ## DELTA Robot
 
 <img width="2048" height="1156" alt="image" src="https://github.com/user-attachments/assets/5968b752-b4bd-4bb1-852f-fee76b77b2f8" />
