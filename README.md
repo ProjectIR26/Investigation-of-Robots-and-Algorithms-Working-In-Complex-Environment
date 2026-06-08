@@ -1,6 +1,10 @@
 # Investigation-of-Robots-and-Algorithms-Working-In-Complex-Environment
 Creating new theories and methods and enriching existing knowledge related to algorithms for controlling robots for work in complex environments by conducting theoretical and experimental research.
 
+## AGV with Robotic Arm
+
+<img width="1755" height="2165" alt="AGV and Arm" src="https://github.com/user-attachments/assets/f5ee1db4-210d-411f-9846-86aebd4270ad" />
+
 ## Redundant Robot
 
 <img width="1149" height="1608" alt="Redundant robot" src="https://github.com/user-attachments/assets/2d6805dd-4d92-46e2-a8d1-d97552d22585" />
