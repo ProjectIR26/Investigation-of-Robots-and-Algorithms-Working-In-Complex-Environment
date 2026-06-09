@@ -25,4 +25,5 @@ Creating new theories and methods and enriching existing knowledge related to al
 
 ## 3D Printed Humanoid Hand
 
+![image]([https://raw.githubusercontent.com/prelibiton/3D-printed-humanoid-hand/main/Pictures/hand4.png](https://github.com/ProjectIR26/Investigation-of-Robots-and-Algorithms-Working-In-Complex-Environment/blob/main/3D%20%D0%BF%D1%80%D0%B8%D0%BD%D1%82%D0%B8%D1%80%D0%B0%D0%BD%D0%B0%20%D1%85%D1%83%D0%BC%D0%B0%D0%BD%D0%BE%D0%B8%D0%B4%D0%BD%D0%B0%20%D1%80%D1%8A%D0%BA%D0%B0/Pictures/hand.jpg))
 ![image](https://raw.githubusercontent.com/prelibiton/3D-printed-humanoid-hand/main/Pictures/hand4.png)
