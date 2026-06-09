@@ -22,3 +22,7 @@ Creating new theories and methods and enriching existing knowledge related to al
 ## Planar Robot
 
 <img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/0f3f0f2b-1500-4b17-ba92-955573def26d" />
+
+## 3D Printed Humanoid Hand
+
+![image](https://raw.githubusercontent.com/prelibiton/3D-printed-humanoid-hand/main/Pictures/hand4.png)
